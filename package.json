@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "openai": "^5.10.2",
+    "readline-sync": "^1.4.10"
+  }
+}
