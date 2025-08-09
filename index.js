@@ -2,6 +2,7 @@ const OPEN_AI_KEY = process.env.Open_AI_Key;
 const openai = require('openai');
 const readlineSync = require('readline-sync');
 
+
 const client = new openai.OpenAI({
     apiKey: Open_AI_Key,
 
